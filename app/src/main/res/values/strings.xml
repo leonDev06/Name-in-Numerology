@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Name in Numerology</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Errors-->
+    <string name="emptyNameField">
+        Please enter your name.
+    </string>
+
+    <!--Display-->
+    <string name="fragConvNamePersoNum">
+        is your Personality Number!
+    </string>
+    <string name="fragNumerResultAccordingTo">
+        According to Numerology, your personality type is
+    </string>
+
+    <!--Buttons-->
+    <string name="fragConvNameButtonViewPersonality">
+        View Meaning
+    </string>
+
+    <!--Numerology Results-->
+    <string name="result1">
+        Initiator of action, pioneering, leading, independent, attaining, individualistic
+    </string>
+    <string name="result2">
+        Cooperation, adaptability, consideration of others, partnering, mediating
+    </string>
+    <string name="result3">
+        Expression, verbalization, socialization, the arts, the joy of living
+    </string>
+    <string name="result4">
+        Values foundation, order, service, struggle against limits, steady growth
+    </string>
+    <string name="result5">
+        Expansiveness, visionary, adventure, the constructive use of freedom
+    </string>
+    <string name="result6">
+        Responsibility, protection, nurturing, community, balance, sympathy
+    </string>
+    <string name="result7">
+        Analysis, understanding, knowledge, awareness, studious, meditating
+    </string>
+    <string name="result8">
+        Practical endeavors, status-oriented, power-seeking, high-material goals
+    </string>
+    <string name="result9">
+        Humanitarian, giving nature, selflessness, obligations, creative expression
+    </string>
+    <string name="result11">
+        Higher spiritual plane, intuitive, illumination, idealist, a dreamer
+    </string>
+    <string name="result22">
+        The Master Builder, large endeavors, powerful force, leadership
+    </string>
+    <string name="result33">
+        You\'re Mysterious. Not even the numbers can tell your personality. You\'re unpredictable.
+    </string>
+
+</resources>
